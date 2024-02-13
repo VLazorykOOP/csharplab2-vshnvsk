@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lab 2 CSharp");
+            Console.WriteLine("Hello");
         }
     }
 }
